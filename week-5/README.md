@@ -2,8 +2,8 @@
 
 ## Identitas
 
--   Nama : [Nama Lengkap]
--   NIM : [NIM Mahasiswa]
+-   Nama : Muhammad Kholilulloh
+-   NIM : F1D022014
 
 ## Deskripsi Tugas
 
